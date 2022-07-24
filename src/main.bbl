@@ -1,0 +1,26 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+McFarland%
+}{%
+McFarland%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+mcfar}
+\APACinsertmetastar {%
+mcfar}%
+\begin{APACrefauthors}%
+McFarland, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {Guilty robots, happy dogs: the question of alien minds} {Guilty
+  robots, happy dogs: the question of alien minds}.
+\newblock
+\APACaddressPublisher{}{Oxford University Press}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

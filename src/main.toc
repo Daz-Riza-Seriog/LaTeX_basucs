@@ -1,0 +1,8 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Energía Cinética}{1}{}%
+\contentsline {section}{\numberline {2}Ecuaciones de Ambiente}{1}{}%
+\contentsline {section}{\numberline {3}Imagenes}{2}{}%
+\contentsline {section}{\numberline {4}Listado}{2}{}%
+\contentsline {section}{\numberline {5}Tablas}{2}{}%
+\contentsline {section}{\numberline {6}Bibliografia}{2}{}%
+\contentsline {section}{Referencias}{3}{}%
